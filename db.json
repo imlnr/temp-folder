@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "New Task",
+      "status": false
+    },
+    {
+      "title": "todo-1",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "ima disco dancer",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "task4",
+      "status": false,
+      "id": 4
+    }
+  ]
+}
